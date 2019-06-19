@@ -1,0 +1,5 @@
+Hello, adm-A. Today, when I wanted to change the video's link, but things didn't work so good.
+When I changed the new link "http://vfx.mtime.cn/Video/2019/03/14/mp4/190314223540373995.mp4", bad things occured which was the video didn't play.
+But the old one "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" still can play.
+After I searched online and tried couple times, still failed.
+Thank you, your dear dev-B in Canton

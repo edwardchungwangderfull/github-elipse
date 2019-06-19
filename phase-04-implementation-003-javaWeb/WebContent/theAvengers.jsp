@@ -69,7 +69,13 @@
 		onclick="run(this);return false" />
 	<div id="moviebox" style="margin-top: 450px; display: none" align="right">
 		<video id="movie" height="325px" controls="controls"
+<<<<<<< HEAD
 			src="static/video/Avengers4.mp4" onVideoEnd()/></video>
+=======
+			src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" onVideoEnd()/></video>
+			<video id="movie1" height="225px" controls="controls"
+				src="http://vfx.mtime.cn/Video/2019/03/14/mp4/190314223540373995.mp4"></video>
+>>>>>>> branch 'master' of https://github.com/edwardchungwangderfull/github-elipse.git
 	</div>	
 </body>
-</html>
+</html>	
