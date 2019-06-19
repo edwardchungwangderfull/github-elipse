@@ -69,7 +69,7 @@
 		onclick="run(this);return false" />
 	<div id="moviebox" style="margin-top: 450px; display: none" align="right">
 		<video id="movie" height="325px" controls="controls"
-			src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" onVideoEnd()/></video>
+			src="static/video/Avengers4.mp4" onVideoEnd()/></video>
 	</div>	
 </body>
 </html>
