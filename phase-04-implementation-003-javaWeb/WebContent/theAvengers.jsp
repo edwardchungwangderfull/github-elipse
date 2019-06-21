@@ -48,10 +48,10 @@
 <body class="background1">
 	<audio controls="controls" src="static/audio/The Real Hero.mp3" autoplay= "autoplay" ></audio>
 	<span id="firstline" style="font-size: 26px; color: white; position:absolute; left :30px;top:80px">
-		<br /><br />Hey, you guys! <br />I'm about to design and implement <br />an "<span
+		<br /><br />Hey, you guys! <br />Thanks for stopping by this <br />an "<span
 		style="font-size: 38px; color: red">Avengers</span>" website! <br /><br />Please <span
 		style="font-size: 38px; color: #6699ff">CLICK</span> the <span
-		style="font-size: 38px; color: #9B30FF">"A"</span> bottom below. <br />And enjoy more content. 
+		style="font-size: 38px; color: #9B30FF">"A"</span> bottom below. <br />And enjoy this adventure. 
 			<br /><br />Thanks for watching! 
 	</span>
 	<div id="poem-txt" style="display: none; font-size: 22px; color: white; position:absolute; left :30px;top:80px" >
