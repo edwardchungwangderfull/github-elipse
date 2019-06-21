@@ -1,0 +1,4 @@
+通過與顧客的交流，得知顧客想要藉此平台表達對Stan Lee的感謝。
+顧客想要在項目的背景圖片使用Avengers：Endgame的圖片，左下角的按鈕是Avenger的Logo，視頻播放的是Avengers：Endgame的Trailer。
+為了表達對Stan Lee的感謝，在按完Avengers的Logo以後，將會出現Stan Lee的詩。
+背景音樂使用的是The Real Hero.mp3
